@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Estefania 👋
 
-<!--
-**estefania-fernandez/estefania-fernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently completing a cybersecurity bootcamp with a focus on threat detection and hands-on lab practice.
 
-Here are some ideas to get you started:
+## 🔍 Current Focus
+- Log analysis
+- Network traffic investigation
+- Vulnerability scanning
+- Understanding SOC workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+To start my career as a Junior SOC Analyst and continue developing strong defensive security skills.
+
+## 📚 Learning Approach
+I document my practical exercises and labs in this profile to track progress and strengthen technical understanding.
